@@ -16,9 +16,9 @@ Here are links for 2017 and 2018 Charts image. As you can see in 2017 yearly ret
 
 ### Summary
 
-  ##### -Advantages of Refactoring Code
+  ##### Advantages of Refactoring Code :  `One of the most advantages of refactoring code is execut faster and also we are using less memory. By refactoring the                                                code we are improving the logic, and  also we are making a code more readable, So if anyone else later wants to work on                                              our codes it will be easer for them to undrestand the code.` 
          
-       `One of the most advantages of refactoring code is execut faster and also we are using less memory. By refactoring the code we are improving the logic, and          also we are making a code more readable, So if anyone else later wants to work on our codes it will be easer for them to undrestand the code.`            
+               
 
          
          
